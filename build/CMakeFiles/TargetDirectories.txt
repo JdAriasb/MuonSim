@@ -1,3 +1,0 @@
-/home/juan_aspire/Documentos/Universidad/2025-10/Proyecto_Computacional/te/MuonTomographySim/build/CMakeFiles/muonSim.dir
-/home/juan_aspire/Documentos/Universidad/2025-10/Proyecto_Computacional/te/MuonTomographySim/build/CMakeFiles/edit_cache.dir
-/home/juan_aspire/Documentos/Universidad/2025-10/Proyecto_Computacional/te/MuonTomographySim/build/CMakeFiles/rebuild_cache.dir
